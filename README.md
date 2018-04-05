@@ -1,4 +1,4 @@
-This tutorial you can learn reactjs component life cycle methods
+This tutorial will help you to learn reactjs component life cycle methods
 
 # Component Life Cycle Methods
 
